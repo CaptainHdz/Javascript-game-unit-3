@@ -7,9 +7,9 @@ var wordchoice = pcword.length
 
 
 
-var usranswer= document.write("Pick a letter");
+var usranswer= prompt("Pick a letter");
 
 
 
-
+function 
 if (letters.indexOf(usranswer)); 
